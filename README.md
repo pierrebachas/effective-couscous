@@ -6,4 +6,4 @@
 
   third edits
 
-  Fourth edits but this one will create conflict 
+  Fourth edits but this one will create conflict
